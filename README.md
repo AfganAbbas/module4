@@ -1,4 +1,6 @@
-Stack: React <br>
+# Movie app written in react <br>
+
+Project of Algoritmika bootcamp module 4
 
 # Getting Started with Create React App
 
